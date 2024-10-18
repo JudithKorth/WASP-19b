@@ -1,0 +1,27 @@
+references:
+  - title: >-
+      Update on WASP-19
+    abstract: |
+      Tidal interaction between a star and a close-in massive exoplanet causes the planetary orbit to shrink and eventually leads to tidal disruption. Understanding orbital decay in exoplanetary systems is crucial for advancing our knowledge of planetary formation and evolution. Moreover, it sheds light on the broader question of the long-term stability of planetary orbits and the intricate interplay of gravitational forces within stellar systems. Analyzing Transiting Exoplanet Survey Satellite (TESS) data for the ultra-short period gas giant WASP-19, we aim to measure orbital period variations and constrain the stellar tidal quality parameter. For this, we fitted the TESS observations together with two WASP-19 transits observed using the Las Cumbres Observatory Global Telescope (LCOGT) and searched for orbital decay in combination with previously published transit times. As a result, we find a deviation from the constant orbital period at the 7σ level. The orbital period changes at a rate of P˙ = −3.7 ± 0.5 ms year−1, which translates into a tidal quality factor of Q′⋆ = (7 ± 1) × 105. We additionally modeled WASP-19 b’s phase curve using the new TESS photometry and obtained updated values for the planet’s eclipse depth, dayside temperature, and geometric albedo. We estimate an eclipse depth of 520 ± 60 ppm, which is slightly higher than previous estimates and corresponds to a dayside brightness temperature of 2400 ± 60 K and geometric albedo of 0.20 ± 0.04.
+    type: journalArticle
+    license: https://creativecommons.org/licenses/by/4.0/
+    copyright: https://creativecommons.org/licenses/by/4.0/
+    database: DOI.org (Crossref)
+    date-accessed: 2024-10-18T22:48:24Z
+    issn: 2218-1997
+    issue: 1
+    journal: Universe
+    languages: 
+      - en
+    pages: 12
+    volume: 10
+    url: https://www.mdpi.com/2218-1997/10/1/12
+    authors: 
+      - family-names: Korth
+        given-names: Judith
+      - family-names: Parviainen
+        given-names: Hannu
+    date-published: 2023-12-27
+    identifiers: 
+      - type: doi
+        value: 10.3390/universe10010012
